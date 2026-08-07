@@ -1,4 +1,9 @@
 {
   "updatedAt": "2026-08-07",
-  "keys": {}
+  "keys": {
+    "65ae76ce0214df7f": {
+      "status": "revoked",
+      "note": "연결 시험 — 곧 지웁니다"
+    }
+  }
 }
